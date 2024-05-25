@@ -8,10 +8,9 @@ Welcome to the **30 Days of HTML, CSS, and JavaScript Projects** repository. Thi
 2. [Course Structure](#course-structure)
 3. [Getting Started](#getting-started)
 4. [Project Setup](#project-setup)
-5. [Projects](#projects)
-6. [Resources](#resources)
-7. [Contributing](#contributing)
-8. [License](#license)
+5. [Resources](#resources)
+6. [Contributing](#contributing)
+7. [License](#license)
 
 ## Introduction
 
@@ -21,36 +20,36 @@ This repository is designed to help you follow along with the **30 Days of HTML,
 
 The course is divided into 30 days, each focusing on building a new project:
 
-1. Day 1: Weather App
-2. Day 2: To-Do List App
-3. Day 3: Quiz App
-4. Day 4: Password Generator
-5. Day 5: Notes App
-6. Day 6: Age Calculator
-7. Day 7: Quote Generator
-8. Day 8: QR Code Generator
-9. Day 9: Toast Notification
-10. Day 10: Music Player
-11. Day 11: Stopwatch
-12. Day 12: Calculator
-13. Day 13: Popup (Modal Box)
-14. Day 14: Password Toggle
-15. Day 15: Dark Mode
-16. Day 16: Form Validation
-17. Day 17: Image Gallery
-18. Day 18: Email Subscription Form
-19. Day 19: Password Strength Indicator
-20. Day 20: Text to Voice Converter
-21. Day 21: Coming Soon Page
-22. Day 22: Background Change Effect
-23. Day 23: Mini Calendar
-24. Day 24: Custom Select Menu
-25. Day 25: Circular Progress Bar
-26. Day 26: Product Page
-27. Day 27: Cryptocurrency Website
-28. Day 28: Digital Clock
-29. Day 29: Drag & Drop
-30. Day 30: Image Search Engine
+1. [Day 1: Weather App](https://www.youtube.com/watch?v=MIYQR-Ybrn4&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=1&pp=iAQB)
+2. [Day 2: To-Do List App](https://www.youtube.com/watch?v=G0jO8kUrg-I&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=2&pp=iAQB)
+3. [Day 3: Quiz App](https://www.youtube.com/watch?v=PBcqGxrr9g8&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=3&pp=iAQB)
+4. [Day 4: Password Generator](https://www.youtube.com/watch?v=Xrsb9SiF3a8&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=4&pp=iAQB)
+5. [Day 5: Notes App](https://www.youtube.com/watch?v=n3U4jFbp05M&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=5&pp=iAQB)
+6. [Day 6: Age Calculator](https://www.youtube.com/watch?v=_pw8vk1tAhs&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=6&pp=iAQB)
+7. [Day 7: Quote Generator](https://www.youtube.com/watch?v=FiUVwPYYT5A&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=7&pp=iAQB)
+8. [Day 8: QR Code Generator](https://www.youtube.com/watch?v=g1j9rR-H1lk&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=8&pp=iAQB)
+9. [Day 9: Toast Notification](https://www.youtube.com/watch?v=mkNITfM1gm8&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=9&pp=iAQB)
+10. [Day 10: Music Player](https://www.youtube.com/watch?v=JtrFzoL1joI&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=10&pp=iAQB)
+11. [Day 11: Stopwatch](https://www.youtube.com/watch?v=cO-qjCC_UYQ&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=11&pp=iAQB)
+12. [Day 12: Calculator](https://www.youtube.com/watch?v=cGgLHJGyS34&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=12&pp=iAQB)
+13. [Day 13: Popup (Modal Box)](https://www.youtube.com/watch?v=AF6vGYIyV8M&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=13&pp=iAQB)
+14. [Day 14: Password Toggle](https://www.youtube.com/watch?v=945xZpwy9w8&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=14&pp=iAQB)
+15. [Day 15: Dark Mode](https://www.youtube.com/watch?v=9LZGB3OLXNQ&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=15&pp=iAQB)
+16. [Day 16: Form Validation](https://www.youtube.com/watch?v=fz8bwvn9lA4&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=16&pp=iAQB)
+17. [Day 17: Image Gallery](https://www.youtube.com/watch?v=gzXyRa7jwk4&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=17&pp=iAQB)
+18. [Day 18: Email Subscription Form](https://www.youtube.com/watch?v=a8Om25FbaJA&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=18&pp=iAQB)
+19. [Day 19: Password Strength Indicator](https://www.youtube.com/watch?v=P-l1u5nvfEc&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=19&pp=iAQB)
+20. [Day 20: Text to Voice Converter](https://www.youtube.com/watch?v=3oDNqHZ7UKY&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=20&pp=iAQB)
+21. [Day 21: Coming Soon Page](https://www.youtube.com/watch?v=_LExTzOhe7s&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=21&pp=iAQB)
+22. [Day 22: Background Change Effect](https://www.youtube.com/watch?v=Z7kmaWcMJBY&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=22&pp=iAQB)
+23. [Day 23: Mini Calendar](https://www.youtube.com/watch?v=b6473PrT-dU&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=23&pp=iAQB)
+24. [Day 24: Custom Select Menu](https://www.youtube.com/watch?v=vnl1X3ZNrFY&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=24&pp=iAQB)
+25. [Day 25: Circular Progress Bar](https://www.youtube.com/watch?v=mSfsGTIQlxg&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=25&pp=iAQB)
+26. [Day 26: Product Page](https://www.youtube.com/watch?v=uS032avlZ6I&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=26&pp=iAQB)
+27. [Day 27: Cryptocurrency Website](https://www.youtube.com/watch?v=nidmDGwJ-Jw&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=27&pp=iAQB)
+28. [Day 28: Digital Clock](https://www.youtube.com/watch?v=5tC46h022YE&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=28&pp=iAQB)
+29. [Day 29: Drag & Drop](https://www.youtube.com/watch?v=4AHot187Lj0&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=29&pp=iAQB)
+30. [Day 30: Image Search Engine](https://www.youtube.com/watch?v=E4znbZgUWzA&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=30&pp=iAQB)
 
 ## Getting Started
 
