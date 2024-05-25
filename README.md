@@ -1,6 +1,8 @@
 # 30 Days of HTML, CSS, and JavaScript
 
-Welcome to the **30 Days of HTML, CSS, and JavaScript** repository. This repository contains code and resources to accompany the [YouTube playlist](https://www.youtube.com/playlist?list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9).
+Welcome to the **30 Days of HTML, CSS, and JavaScript** repository.
+
+This repository contains code and resources to accompany the [YouTube playlist](https://www.youtube.com/playlist?list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9).
 
 ## Table of Contents
 
