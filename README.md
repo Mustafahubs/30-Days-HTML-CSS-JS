@@ -1,5 +1,8 @@
 # 30 Days of HTML, CSS, and JavaScript Projects
 
+![image](https://github.com/Mustafahubs/30-Days-HTML-CSS-JS/assets/73376484/ee4f3a7e-4242-4093-b7cf-c04ce8ce3f7d)
+
+
 Welcome to the **30 Days of HTML, CSS, and JavaScript Projects** repository. This repository contains code and resources for each project in the [YouTube playlist](https://www.youtube.com/playlist?list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9).
 
 ## Table of Contents
